@@ -1,4 +1,4 @@
-# AI-Writer
+# NLP_TEXT_GEN
 
 word-rnn-tensorflow
 [![Build Status](https://travis-ci.org/hunkim/word-rnn-tensorflow.svg?branch=master)](https://travis-ci.org/hunkim/word-rnn-tensorflow)
